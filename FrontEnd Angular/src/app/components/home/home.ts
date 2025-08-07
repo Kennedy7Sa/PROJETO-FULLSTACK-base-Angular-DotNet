@@ -18,7 +18,8 @@ import { materialImports } from '../../material';
 export class Home implements OnInit{
 
 
-  funcionario : FuncionarioModel[] = [];
+  funcionarios : FuncionarioModel[] = [];
+  procurarFuncionario: FuncionarioModel[]=[]; // lista fazia ja inicializada , não esqueça de popular com os mesmos dados da lista funcionarios .
   colunas = ['Nome','Setor','Turno','Ações','Excluir']
 
 //injeção de dependencia das versões atuais , assim os metodos que tiverem no service podem ser acessado igual ao construtor .
@@ -28,7 +29,8 @@ private dialog = inject(MatDialog)
 ngOnInit(): void {
 
   this.funcionarioService.GetFuncionarios().subscribe((data)=>{
-    this.funcionario = data.dados;
+    this.funcionarios = data.dados;
+    this.procurarFuncionario = data.dados; 
   })
 }
 OpenDialog(id:number){
@@ -40,6 +42,19 @@ OpenDialog(id:number){
       id:id
     }
   });
+
+}
+search(event : Event){
+  const target = event.target as HTMLInputElement; //pra pegar tudo que faz parte do input inclusive o value
+  const value = target.value.toLowerCase();
+
+  this.funcionarios = this.procurarFuncionario.filter(funcionarioEncontrado =>{
+    console.log(funcionarioEncontrado)
+    return funcionarioEncontrado.nome.toLowerCase().includes(value);
+    
+  })
+
+
 
 }
 }

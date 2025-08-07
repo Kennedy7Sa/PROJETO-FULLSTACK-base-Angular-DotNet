@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sarar\\OneDrive\\Documentos\\\u00C1rea de Trabalho\\crudFullStackSimples\\Api\\ApiFuncionarios\\",
+  "WorkspaceRootPath": "C:\\Users\\sarar\\OneDrive\\Documentos\\\u00C1rea de Trabalho\\PROJETO FULLSTACK\\ApiDotNet\\ApiFuncionarios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C76068F7-BA32-4272-A0AA-718D8126D4E6}|ApiFuncionarios\\ApiFuncionarios.csproj|c:\\users\\sarar\\onedrive\\documentos\\\u00E1rea de trabalho\\crudfullstacksimples\\api\\apifuncionarios\\apifuncionarios\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C76068F7-BA32-4272-A0AA-718D8126D4E6}|ApiFuncionarios\\ApiFuncionarios.csproj|c:\\users\\sarar\\onedrive\\documentos\\\u00E1rea de trabalho\\projeto fullstack\\apidotnet\\apifuncionarios\\apifuncionarios\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C76068F7-BA32-4272-A0AA-718D8126D4E6}|ApiFuncionarios\\ApiFuncionarios.csproj|solutionrelative:apifuncionarios\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C76068F7-BA32-4272-A0AA-718D8126D4E6}|ApiFuncionarios\\ApiFuncionarios.csproj|c:\\users\\sarar\\onedrive\\documentos\\\u00E1rea de trabalho\\crudfullstacksimples\\api\\apifuncionarios\\apifuncionarios\\services\\funcionario\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C76068F7-BA32-4272-A0AA-718D8126D4E6}|ApiFuncionarios\\ApiFuncionarios.csproj|c:\\users\\sarar\\onedrive\\documentos\\\u00E1rea de trabalho\\projeto fullstack\\apidotnet\\apifuncionarios\\apifuncionarios\\services\\funcionario\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C76068F7-BA32-4272-A0AA-718D8126D4E6}|ApiFuncionarios\\ApiFuncionarios.csproj|solutionrelative:apifuncionarios\\services\\funcionario\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C76068F7-BA32-4272-A0AA-718D8126D4E6}|ApiFuncionarios\\ApiFuncionarios.csproj|c:\\users\\sarar\\onedrive\\documentos\\\u00E1rea de trabalho\\crudfullstacksimples\\api\\apifuncionarios\\apifuncionarios\\services\\funcionario\\ifuncionarioserviceinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C76068F7-BA32-4272-A0AA-718D8126D4E6}|ApiFuncionarios\\ApiFuncionarios.csproj|c:\\users\\sarar\\onedrive\\documentos\\\u00E1rea de trabalho\\projeto fullstack\\apidotnet\\apifuncionarios\\apifuncionarios\\services\\funcionario\\ifuncionarioserviceinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C76068F7-BA32-4272-A0AA-718D8126D4E6}|ApiFuncionarios\\ApiFuncionarios.csproj|solutionrelative:apifuncionarios\\services\\funcionario\\ifuncionarioserviceinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FuncionarioController.cs",
-              "DocumentMoniker": "C:\\Users\\sarar\\OneDrive\\Documentos\\\u00C1rea de Trabalho\\crudFullStackSimples\\Api\\ApiFuncionarios\\ApiFuncionarios\\Controllers\\FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\sarar\\OneDrive\\Documentos\\\u00C1rea de Trabalho\\PROJETO FULLSTACK\\ApiDotNet\\ApiFuncionarios\\ApiFuncionarios\\Controllers\\FuncionarioController.cs",
               "RelativeDocumentMoniker": "ApiFuncionarios\\Controllers\\FuncionarioController.cs",
-              "ToolTip": "C:\\Users\\sarar\\OneDrive\\Documentos\\\u00C1rea de Trabalho\\crudFullStackSimples\\Api\\ApiFuncionarios\\ApiFuncionarios\\Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\sarar\\OneDrive\\Documentos\\\u00C1rea de Trabalho\\PROJETO FULLSTACK\\ApiDotNet\\ApiFuncionarios\\ApiFuncionarios\\Controllers\\FuncionarioController.cs",
               "RelativeToolTip": "ApiFuncionarios\\Controllers\\FuncionarioController.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAwwCoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -42,27 +42,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FuncionarioService.cs",
-              "DocumentMoniker": "C:\\Users\\sarar\\OneDrive\\Documentos\\\u00C1rea de Trabalho\\crudFullStackSimples\\Api\\ApiFuncionarios\\ApiFuncionarios\\Services\\Funcionario\\FuncionarioService.cs",
+              "DocumentMoniker": "C:\\Users\\sarar\\OneDrive\\Documentos\\\u00C1rea de Trabalho\\PROJETO FULLSTACK\\ApiDotNet\\ApiFuncionarios\\ApiFuncionarios\\Services\\Funcionario\\FuncionarioService.cs",
               "RelativeDocumentMoniker": "ApiFuncionarios\\Services\\Funcionario\\FuncionarioService.cs",
-              "ToolTip": "C:\\Users\\sarar\\OneDrive\\Documentos\\\u00C1rea de Trabalho\\crudFullStackSimples\\Api\\ApiFuncionarios\\ApiFuncionarios\\Services\\Funcionario\\FuncionarioService.cs",
+              "ToolTip": "C:\\Users\\sarar\\OneDrive\\Documentos\\\u00C1rea de Trabalho\\PROJETO FULLSTACK\\ApiDotNet\\ApiFuncionarios\\ApiFuncionarios\\Services\\Funcionario\\FuncionarioService.cs",
               "RelativeToolTip": "ApiFuncionarios\\Services\\Funcionario\\FuncionarioService.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T20:30:47.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T20:30:47.683Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "IFuncionarioServiceInterface.cs",
-              "DocumentMoniker": "C:\\Users\\sarar\\OneDrive\\Documentos\\\u00C1rea de Trabalho\\crudFullStackSimples\\Api\\ApiFuncionarios\\ApiFuncionarios\\Services\\Funcionario\\IFuncionarioServiceInterface.cs",
+              "DocumentMoniker": "C:\\Users\\sarar\\OneDrive\\Documentos\\\u00C1rea de Trabalho\\PROJETO FULLSTACK\\ApiDotNet\\ApiFuncionarios\\ApiFuncionarios\\Services\\Funcionario\\IFuncionarioServiceInterface.cs",
               "RelativeDocumentMoniker": "ApiFuncionarios\\Services\\Funcionario\\IFuncionarioServiceInterface.cs",
-              "ToolTip": "C:\\Users\\sarar\\OneDrive\\Documentos\\\u00C1rea de Trabalho\\crudFullStackSimples\\Api\\ApiFuncionarios\\ApiFuncionarios\\Services\\Funcionario\\IFuncionarioServiceInterface.cs",
+              "ToolTip": "C:\\Users\\sarar\\OneDrive\\Documentos\\\u00C1rea de Trabalho\\PROJETO FULLSTACK\\ApiDotNet\\ApiFuncionarios\\ApiFuncionarios\\Services\\Funcionario\\IFuncionarioServiceInterface.cs",
               "RelativeToolTip": "ApiFuncionarios\\Services\\Funcionario\\IFuncionarioServiceInterface.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T20:28:41.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T20:28:41.396Z"
             }
           ]
         }

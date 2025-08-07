@@ -9,14 +9,13 @@ html,body{
 }
 
 mat-card{
-    width: 80%;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0 auto;
-    padding: 3rem;
-    margin-top: 5rem; ;
+   width: 90%;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin: 0 auto;
+   padding: 2.5rem;
+  
 }
 
 
@@ -27,11 +26,9 @@ mat-form-field{
 .input_box{
     width: 500px;
 }
-.btn-box{
- width: 500px;
- display: flex;
- justify-content: center;
- align-items: center;
+.btn-box{ 
+ width: 500px; 
+
 
 }
 .btn-box button{

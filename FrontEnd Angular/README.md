@@ -125,3 +125,11 @@ export class MeuComponente {
 
 
 A principal vantagem de usar inject() é que ele não precisa de um construtor, o que torna o código mais limpo e conciso, especialmente em componentes que não precisam de outra lógica no construtor. Ele funciona bem com componentes "standalone" e pode ser usado em qualquer lugar, não apenas no construtor.
+
+## Depois de clonar o projeto do GitHub 
+Rode o comando 
+
+```bash
+npm install 
+```
+Para que que todos os pacotes necessários seja incluidos no projeto 

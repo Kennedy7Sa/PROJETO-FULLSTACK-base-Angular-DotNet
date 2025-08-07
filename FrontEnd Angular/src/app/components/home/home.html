@@ -2,10 +2,16 @@
 <div>
 <div class="btn-box">
     <button [routerLink]="['cadastrarFuncionario']" routerLinkActive="router-link-active" mat-raised-button color="primary" style="width:700px;">Cadastrar</button>
+    <div class="input_box">
+        <mat-form-field>
+        <mat-label>Procurar</mat-label>
+        <input matInput type="text" placeholder="Qual registro está buscando?"(input)="search($event)">
+        </mat-form-field>
+    </div>
 </div>
 
 
-<table mat-table [dataSource]="funcionario" class="mat-elevation-z8">
+<table mat-table [dataSource]="funcionarios" class="mat-elevation-z8">
 
 
   <!-- Weight Column -->
